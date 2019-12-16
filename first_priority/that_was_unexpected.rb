@@ -11,7 +11,7 @@ class Person
   end
 
   def basketball_player?
-    false
+    true
   end
 
   def likes_candy?
